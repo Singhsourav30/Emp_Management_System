@@ -36,20 +36,4 @@ This is a simple Employee Management System written in C, designed for basic adm
 
 ---
 
-## Compilation
 
-Use a C compiler such as `gcc`:
-
-```bash
-gcc main.c admin.c employee.c utils.c -o ems
-
-License
-This project is intended for educational purposes.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want to turn this into an actual file or need it customized more!
